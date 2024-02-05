@@ -1,0 +1,16 @@
+{
+  "name": "wetube-project",
+  "version": "1.0.0",
+  "description": "Node.js and JavaScript backend practice",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GJMLucks/wetube-clone.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GJMLucks/wetube-clone/issues"
+  },
+  "homepage": "https://github.com/GJMLucks/wetube-clone#readme"
+}
